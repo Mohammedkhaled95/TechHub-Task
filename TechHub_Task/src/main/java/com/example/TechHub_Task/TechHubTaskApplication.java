@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TechHubTaskApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TechHubTaskApplication.class, args);
+		 SpringApplication.run(TechHubTaskApplication.class, args);
 	}
 
 }
